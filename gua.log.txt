@@ -1,0 +1,1269 @@
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:58 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:54:59 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:00 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:01 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:02 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:03 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:06 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:07 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:08 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:09 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+17:55:10 hit redis
+19:59:44 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/8d0a2010-3bd8-4479-b144-4a6908710745.png'}}
+20:12:41 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/7946d174-488c-42f8-bed5-2a4c38ecb5a4.png'}}
+20:21:04 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/48f9a683-0c21-49bb-b849-18026a3c4d23.png'}}
+20:21:21 mongo update {'_id': ObjectId('59f31d1606ec6b24f4541057')} {'$set': {'user_image': '/uploads/0f2d3b9b-867d-4504-a01d-de525a6ddb59.png'}}
+20:46:30 reply add
+20:46:30 before send mail ImmutableMultiDict([('topic_id', '59f31f8906ec6b41a4612b04'), ('content', 'test @guagua')])
+20:46:30 reply test @guagua
+20:46:30 reply [<User: 
+  user_image = /uploads/default.png
+  username = guagua
+  updated_time = 1509109257
+  password = 1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf
+  deleted = False
+  id = 59f32e0906ec6b402049b35a
+  created_time = 1509109257
+  _id = 59f32e0906ec6b402049b35a
+>]
+20:46:30 <Mail: 
+  content = test @guagua
+  title = 你被 guagua AT 了
+  updated_time = 1514551590
+  deleted = False
+  id = 5a46392606ec6b48607beeec
+  _id = 5a46392606ec6b48607beeec
+  created_time = 1514551590
+  receiver_id = 59f32e0906ec6b402049b35a
+  sender_id = 59f31d1606ec6b24f4541057
+>
+20:46:30 after send mail
+20:51:20 reply add
+20:51:20 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '@guagau')])
+20:51:20 reply @guagau
+20:51:20 reply [None]
+20:57:47 reply add
+20:57:47 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '@guagua')])
+20:57:47 reply @guagua
+20:57:47 reply [<User: 
+  _id = 5a4780b94281391e8014da6e
+  deleted = False
+  created_time = 1514635449
+  updated_time = 1514635449
+  username = guagua
+  password = 1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf
+  user_image = /uploads/default.png
+  id = 5a4780b94281391e8014da6e
+>]
+20:57:47 <Mail: 
+  deleted = False
+  created_time = 1514638667
+  updated_time = 1514638667
+  title = 你被 gua AT 了
+  content = @guagua
+  sender_id = 5a472a774281392530f8421e
+  receiver_id = 5a4780b94281391e8014da6e
+  _id = 5a478d4b4281391598ceb5c4
+  id = 5a478d4b4281391598ceb5c4
+>
+20:57:47 after send mail
+20:59:28 reply add
+20:59:28 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', 'test  回复')])
+20:59:28 reply test  回复
+20:59:28 reply []
+20:59:28 after send mail
+21:02:08 reply add
+21:02:08 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '再来一次  测试回复')])
+21:02:08 reply 再来一次  测试回复
+21:02:08 reply []
+21:02:08 after send mail
+21:02:24 reply add
+21:02:24 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '@guagua')])
+21:02:24 reply @guagua
+21:02:24 reply [<User: 
+  _id = 5a4780b94281391e8014da6e
+  deleted = False
+  created_time = 1514635449
+  updated_time = 1514635449
+  username = guagua
+  password = 1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf
+  user_image = /uploads/default.png
+  id = 5a4780b94281391e8014da6e
+>]
+21:02:24 这里执行了吗
+21:02:24 <Mail: 
+  deleted = False
+  created_time = 1514638944
+  updated_time = 1514638944
+  title = 你被 gua AT 了
+  content = @guagua
+  sender_id = 5a472a774281392530f8421e
+  receiver_id = 5a4780b94281391e8014da6e
+  _id = 5a478e604281390c902ff94e
+  id = 5a478e604281390c902ff94e
+>
+21:02:24 after send mail
+21:20:50 mongo update {'_id': ObjectId('5a472a774281392530f8421e')} {'$set': {'user_image': '/uploads/30a27694-6654-4936-ba11-0bdfc4b659f6.png'}}
+12:43:31 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': {'user_image': '/uploads/b84d3b92-c7da-4ecb-940e-4d61b17efb77.png'}}
+13:14:06 表单有内容吗？ ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:14:06 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+13:14:49 表单有内容吗？ ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:14:49 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+13:14:58 表单有内容吗？ ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:14:58 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+13:15:28 表单有内容吗？ ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:15:28 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+13:18:27 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '这个人很懒，什么东西都没有留下'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:18:27 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('name', 'guaguagua'), ('signature', '这个人很懒，什么东西都没有留下'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+13:23:29 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好吗'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:24:08 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好吗'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:24:22 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好吗'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:25:56 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '你好吗'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:26:20 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '这个人很懒'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:27:29 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '这个人很懒'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:27:55 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '这个人很懒'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:29:31 要看表单的内容 ImmutableMultiDict([('name', 'guaguagua'), ('signature', '这个人很懒'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+13:29:31 行不行 guaguagua
+13:29:31 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('name', 'guaguagua'), ('signature', '这个人很懒'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+14:23:56 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('old_pass', '123'), ('new_pass', '123123'), ('action', 'change_password'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+14:25:24 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': ImmutableMultiDict([('old_pass', '123'), ('new_pass', '123'), ('action', 'change_password'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+14:33:27 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': {'user_image': '123123'}}
+14:34:10 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': {'user_image': '/uploads/f5b33553-2a17-4725-885a-194be3c2f64b.png'}}
+14:34:27 mongo update {'_id': ObjectId('5a49a7e242813920b4cfb45c')} {'$set': {'password': '123123'}}
+14:36:35 mongo update {'_id': ObjectId('5a49a93d4281391d34ea89a2')} {'$set': {'password': '123123'}}
+14:40:23 mongo update {'_id': ObjectId('5a49d7794281392ab8b86921')} {'$set': {'password': '1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf'}}
+14:42:35 mongo update {'_id': ObjectId('5a4780b94281391e8014da6e')} {'$set': {'password': '44353345e5730691bb977748c8262a967da43decb8a5f270a3df943600c05607'}}
+14:48:25 要看表单的内容 ImmutableMultiDict([('name', '112'), ('signature', '333'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+14:48:25 行不行 112
+14:48:25 mongo update {'_id': ObjectId('5a49d7794281392ab8b86921')} {'$set': ImmutableMultiDict([('name', '112'), ('signature', '333'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+14:49:50 要看表单的内容 ImmutableMultiDict([('name', '123'), ('signature', '333'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+14:49:50 行不行 123
+14:49:50 mongo update {'_id': ObjectId('5a49d7794281392ab8b86921')} {'$set': ImmutableMultiDict([('name', '123'), ('signature', '333'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+14:50:20 要看表单的内容 ImmutableMultiDict([('username', '123'), ('signature', '333'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+14:50:39 要看表单的内容 ImmutableMultiDict([('username', '123'), ('signature', '333'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+14:50:39 mongo update {'_id': ObjectId('5a49d7794281392ab8b86921')} {'$set': ImmutableMultiDict([('username', '123'), ('signature', '333'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+14:57:38 reply add
+14:57:38 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('r_content', '懂')])
+14:59:10 reply add
+14:59:10 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('r_content', '测试')])
+15:03:47 reply add
+15:03:47 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('r_content', '测试')])
+15:04:00 reply add
+15:04:00 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('r_content', '测试')])
+15:04:50 reply add
+15:04:50 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('r_content', '测试')])
+15:04:52 reply add
+15:04:52 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('r_content', '测试')])
+15:07:41 reply add
+15:07:41 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '测试')])
+15:07:41 reply 测试
+15:07:41 reply []
+15:07:41 after send mail
+15:09:31 reply add
+15:09:31 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '你好')])
+15:09:31 reply 你好
+15:09:31 reply []
+15:09:31 after send mail
+15:10:57 reply add
+15:10:57 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '再测试一下')])
+15:10:57 reply 再测试一下
+15:10:57 reply []
+15:10:57 after send mail
+20:24:08 mongo update {'_id': ObjectId('5a49d7794281392ab8b86921')} {'$set': {'password': '1be6af03717a0906a774a129ac467fcea8f89849df003548a8039cffffb12baf'}}
+20:28:06 要看表单的内容 ImmutableMultiDict([('username', 'gua'), ('signature', '比好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+20:28:06 mongo update {'_id': ObjectId('5a472a774281392530f8421e')} {'$set': ImmutableMultiDict([('username', 'gua'), ('signature', '比好'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+20:30:00 mongo update {'_id': ObjectId('5a4a2980428139288007a1ff')} {'$set': {'password': 'b0ecb0b34a1afd8782498d5d0dc294f5eb0ab1e79d517a5e7000a0ddaccf3d5c'}}
+20:31:21 mongo update {'_id': ObjectId('5a4a2980428139288007a1ff')} {'$set': {'password': 'e99bc0795032aad73b7c35f608bef6a4f134f086d24ff977129bff1871287f80'}}
+20:44:26 要看表单的内容 ImmutableMultiDict([('username', '6666'), ('signature', '666'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+20:44:26 mongo update {'_id': ObjectId('5a4a2980428139288007a1ff')} {'$set': ImmutableMultiDict([('username', '6666'), ('signature', '666'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+20:53:08 要看表单的内容 ImmutableMultiDict([('username', '0000'), ('signature', '000'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+20:53:08 mongo update {'_id': ObjectId('5a4a2f1c42813900cc4a3103')} {'$set': ImmutableMultiDict([('username', '0000'), ('signature', '000'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])}
+20:53:08 mongo update {'_id': ObjectId('5a4a2f1c42813900cc4a3103')} {'$set': {'username': '0000'}}
+20:53:08 mongo update {'_id': ObjectId('5a4a2f1c42813900cc4a3103')} {'$set': {'signature': '000'}}
+20:54:26 要看表单的内容 ImmutableMultiDict([('username', '2222'), ('signature', '222'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+20:54:26 mongo update {'_id': ObjectId('5a4a2f7b42813922e0f69281')} {'$set': {'username': '2222'}}
+20:54:26 mongo update {'_id': ObjectId('5a4a2f7b42813922e0f69281')} {'$set': {'signature': '222'}}
+20:54:42 要看表单的内容 ImmutableMultiDict([('username', '2222'), ('signature', '2222'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+20:54:42 mongo update {'_id': ObjectId('5a4a2f7b42813922e0f69281')} {'$set': {'username': '2222'}}
+20:54:42 mongo update {'_id': ObjectId('5a4a2f7b42813922e0f69281')} {'$set': {'signature': '2222'}}
+20:54:57 mongo update {'_id': ObjectId('5a4a2f7b42813922e0f69281')} {'$set': {'user_image': '/uploads/77062835-1efe-4237-b135-653b1552cb8a.png'}}
+21:07:04 要看表单的内容 ImmutableMultiDict([('username', '222'), ('signature', '222'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+21:07:04 mongo update {'_id': ObjectId('5a4a2f7b42813922e0f69281')} {'$set': {'username': '222', 'signature': '222'}}
+21:09:19 要看表单的内容 ImmutableMultiDict([('username', '2222'), ('signature', '2222'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+21:09:19 mongo update {'_id': ObjectId('5a4a2f7b42813922e0f69281')} {'$set': {'username': '2222', 'signature': '2222'}}
+19:29:26 reply add
+19:29:26 before send mail ImmutableMultiDict([('topic_id', '5a478ba74281391598ceb5c3'), ('content', '回复')])
+19:29:26 reply 回复
+19:29:26 reply []
+19:29:26 after send mail
+11:15:24 reply add
+11:15:24 before send mail ImmutableMultiDict([('topic_id', '5a48e3e742813922fc382813'), ('content', '**加粗的文字**')])
+11:15:24 reply **加粗的文字**
+11:15:24 reply []
+11:15:24 after send mail
+11:21:26 reply add
+11:21:26 before send mail ImmutableMultiDict([('topic_id', '5a48e3e742813922fc382813'), ('content', 'test')])
+11:21:26 reply test
+11:21:26 reply []
+11:21:26 after send mail
+11:29:49 要看表单的内容 ImmutableMultiDict([('username', '1111'), ('signature', '111'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+11:29:49 mongo update {'_id': ObjectId('5a4c4e1b428139119c388e40')} {'$set': {'username': '1111', 'signature': '111'}}
+11:30:04 要看表单的内容 ImmutableMultiDict([('username', '1111'), ('signature', '1111'), ('action', 'change_setting'), ('_csrf', 'm7tfoCYY-S1Nv8MdZ7w1CB3aKGKjtGhzfDuo')])
+11:30:04 mongo update {'_id': ObjectId('5a4c4e1b428139119c388e40')} {'$set': {'username': '1111', 'signature': '1111'}}
+11:30:24 mongo update {'_id': ObjectId('5a4c4e1b428139119c388e40')} {'$set': {'user_image': '/uploads/c0db321c-1156-4c85-a55e-0d3786d2d418.png'}}
+11:31:06 mongo update {'_id': ObjectId('5a4c4e1b428139119c388e40')} {'$set': {'password': '06c09134aeaaa71515d171754ff3bbe4c4fbb9049e5f3e6b435704b907b5eb51'}}
+21:27:56 mongo update {'_id': ObjectId('5a472a774281392530f8421e')} {'$set': {'user_image': '/uploads/a1f99479-0ac1-45f8-879c-6c5a2194cae8.png'}}
+21:30:05 reply add
+21:30:05 before send mail ImmutableMultiDict([('topic_id', '5a48e3e742813922fc382813'), ('content', '决斗')])
+21:30:05 reply 决斗
+21:30:05 reply []
+21:30:05 after send mail
+10:44:09 new token d2737edd-ad43-46da-acdb-7eb59c80e8fe 5a7915044281390f546d038d
+10:44:54 new token ab3528b8-1c31-4455-8b45-3cb0a313dc0e 5a7915044281390f546d038d
+10:44:59 new token a11ebaa0-4e16-45cf-8e63-cd5a21a46d4b 5a7915044281390f546d038d
+10:45:45 要看表单的内容 ImmutableMultiDict([('username', '111'), ('signature', '七月七日长生殿'), ('action', 'change_setting')])
+10:45:45 mongo update {'_id': ObjectId('5a7915044281390f546d038d')} {'$set': {'username': '111', 'signature': '七月七日长生殿'}}
+10:45:53 mongo update {'_id': ObjectId('5a7915044281390f546d038d')} {'$set': {'user_image': '/uploads/8bd5fb78-70e5-4d35-9139-3dedb8a773c0.png'}}
+10:46:32 new token 87c763a7-0107-4ee2-bb16-5034f13b4722 5a7915044281390f546d038d
+10:46:35 new token 7fafa95c-a5ec-4944-a8b5-a1c0bf1d9432 5a7915044281390f546d038d
+10:46:54 new token c4ab92fe-2b4d-436e-af17-445bf5efe1f2 5a7915044281390f546d038d
+10:47:07 reply add
+10:47:07 before send mail ImmutableMultiDict([('topic_id', '5a79171d428139273486de80'), ('content', '这是一篇测试回复')])
+10:47:07 reply 这是一篇测试回复
+10:47:07 reply []
+10:47:07 after send mail
+20:42:26 new token 01674ee3-efd5-45c6-a2c5-ea138a38f7c4 5a7915044281390f546d038d
+21:02:33 new token a78ba413-ee7e-4d7b-bdfe-ad1ffe1074af 5a7915044281390f546d038d
+21:03:11 new token 24d08e3e-6893-44b8-88e5-acf779fdf8cb 5a7915044281390f546d038d
+21:04:38 new token 0d11995a-50ce-4a3d-a616-a14f39cd5efc 5a7915044281390f546d038d
+21:31:05 mongo update {'_id': ObjectId('5a7915044281390f546d038d')} {'$set': {'user_image': '/uploads/4c2ea763-1751-4547-9131-462169f5a8a4.png'}}
+21:31:12 mongo update {'_id': ObjectId('5a7915044281390f546d038d')} {'$set': {'user_image': '/uploads/70db9ed8-b786-4056-a944-bb935752b4ec.png'}}
+21:31:52 mongo update {'_id': ObjectId('5a7915044281390f546d038d')} {'$set': {'user_image': '/uploads/0b57bd0f-127b-4586-9e98-20f866b9a417.png'}}
+21:56:23 new token 1075575d-5edf-4e70-9909-963dac2b9e3c 5a79b4044281391ed0e8d355
+22:10:39 new token af4b467d-96b1-4b35-be12-7cef4c6eb4ba 5a7915044281390f546d038d
+22:11:03 reply add
+22:11:04 before send mail ImmutableMultiDict([('topic_id', '5a79a78f42813906d41ede72'), ('content', 'test @222')])
+22:11:04 reply test @222
+22:11:04 reply [<User: 
+  _id = 5a79b4044281391ed0e8d355
+  deleted = False
+  created_time = 1517925380
+  updated_time = 1517925380
+  username = 222
+  password = da16c3215b7b7fa38a114bf1c8c991c3e5d76b2602070d19637065d87c483804
+  user_image = /uploads/default.png
+  signature = 222
+  id = 5a79b4044281391ed0e8d355
+>]
+22:11:04 <Mail: 
+  deleted = False
+  created_time = 1517926264
+  updated_time = 1517926264
+  title = 你被 111 AT 了
+  content = test @222
+  sender_id = 5a7915044281390f546d038d
+  receiver_id = 5a79b4044281391ed0e8d355
+  _id = 5a79b7784281391ed0e8d357
+  id = 5a79b7784281391ed0e8d357
+>
+22:11:04 after send mail
+22:22:12 reply add
+22:22:12 before send mail ImmutableMultiDict([('topic_id', '5a79a78f42813906d41ede72'), ('content', '没有邮件')])
+22:22:12 reply 没有邮件
+22:22:12 reply []
+22:22:12 after send mail
+21:06:43 new token b104cabe-76d3-4d7b-b874-82db2f9e5bf2 5a7915044281390f546d038d
+09:18:24 new token 5d9e8dbe-0f9e-4dd3-bc5b-029e8a8398ee 5a7915044281390f546d038d
+09:38:25 mongo update {'_id': ObjectId('5a7915044281390f546d038d')} {'$set': {'user_image': '/uploads/f23812d1-1bb9-44c9-ba19-1873ce99c0c0.png'}}
+09:47:49 mongo update {'_id': ObjectId('5a7915044281390f546d038d')} {'$set': {'user_image': '/uploads/72da1c38-7716-4a00-b972-112dbbb70ce6.png'}}
+09:53:39 mongo update {'_id': ObjectId('5a79b4044281391ed0e8d355')} {'$set': {'user_image': '/uploads/5ccb61c6-967b-454b-b387-8f89bb48b68d.png'}}
+16:33:50 new token 6b408ace-6365-48f6-840c-7ed6e32b7cf9 5a7915044281390f546d038d
+16:34:07 new token bfc1c3e7-226c-4a74-9264-d2baf39b1c12 5a7915044281390f546d038d
